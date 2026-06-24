@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+       name="viewport"
+       content="width=device-width, initial-scale=1.0" />
+    <title>freeCodeCamp</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+  </body>
+</html>
+<p>this is a<a> for cats</a> link</p>
+    <!--what should i do now-->
+    <!--To open links in a new tab, you can use the target attribute on the anchor (a) element.-->
+    <!--The target attribute specifies where to open the linked document. target="_blank" opens the linked document in a new tab or window.-->
+    <!--<a href="example-link">
+  <img src="image-link.jpg" alt="A photo of a cat.">
+</a>-->

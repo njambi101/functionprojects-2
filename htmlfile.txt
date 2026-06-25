@@ -2,6 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
+    <meta name="description" content="how to make cookie dough"/>
+    <meta content="cooking.com" property="og:title"/>
+    <meta
+  name="description"
+  content="Discover expert tips and techniques for gardening in small spaces, choosing the right plants, and maintaining a thriving garden."
+/>
     <meta
        name="viewport"
        content="width=device-width, initial-scale=1.0" />
@@ -18,3 +24,4 @@
     <!--<a href="example-link">
   <img src="image-link.jpg" alt="A photo of a cat.">
 </a>-->
+The id attribute adds a unique identifier to an HTML element.
